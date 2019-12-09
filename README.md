@@ -1,6 +1,6 @@
 # img-recon-server
 
-A Java image reconginition server application for Windows built using Amazon AWS SDK.
+A Java image recognition server application for Windows built using Amazon AWS SDK.
 
 ![Application Image](img-recon-server.png)
 
